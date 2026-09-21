@@ -58,6 +58,10 @@ Using g++:
 | Call Next Patient | O(log n) |
 | Total Fees using Recursion | O(n) |
 
+## UML Class Diagram
+
+![UML Class Diagram](clinic_uml_diagram.png)
+
 ## Screenshot
 
 ![README Screenshot](README%20screenshot.jpg)
