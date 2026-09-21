@@ -48,6 +48,15 @@ The project uses custom data structures:
 
 Using g++:
 
+## Big O Complexity
+
+| Operation | Complexity |
+|---|---|
+| Binary Search | O(log n) |
+| Selection Sort | O(n²) |
+| Add to Waiting Room | O(log n) |
+| Call Next Patient | O(log n) |
+| Total Fees using Recursion | O(n) |
 
 ## Screenshot
 
