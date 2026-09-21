@@ -48,13 +48,17 @@ The project uses custom data structures:
 
 Using g++:
 
+```bash
+g++ -std=c++17 clinic_management_system.cpp -o clinic
+./clinic
+
 ## Big O Complexity
 
 | Operation | Complexity |
 |---|---|
 | Binary Search | O(log n) |
 | Selection Sort | O(n²) |
-| Add to Waiting Room | O(log n) |
+| Add to Waiting Room | O(log n) 
 | Call Next Patient | O(log n) |
 | Total Fees using Recursion | O(n) |
 
