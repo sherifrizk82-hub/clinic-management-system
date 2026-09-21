@@ -48,5 +48,10 @@ The project uses custom data structures:
 
 Using g++:
 
+
+## Screenshot
+
+![README Screenshot](README%20screenshot.jpg)
+
 ```bash
 g++ -std=c++17 clinic_management_system.cpp -o clinic
